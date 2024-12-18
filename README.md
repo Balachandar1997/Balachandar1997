@@ -1,15 +1,15 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Bala Chandar</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate Front End developer from India</h3>
 
-- 🔭 I’m currently working on **brushing up my skills**
+- 🔭 I’m currently looking for an new opportunity to work as **Front end Developer**
 
-- 🌱 I’m currently learning **Full Stack Web Development, Data Structure & Algorithm**
+- 🌱 I’m good at  **Developing Web and Mobile Applications**
 
-- 👯 I’m looking to collaborate on **MERN Stack project**
+- 👯 I’m looking to work on **Mobile Application Development**
 
-- 💬 Ask me about **HTML,CSS,Node.js,JavaScript,React.js,MongoDB,Express,Firebase,Redux**
+- 💬 Ask me about **HTML,CSS,JavaScript,React.js,React Native,Firebase,Redux, Android Studio , Xcode**
 
 - 📫 How to reach me **chanbala555@gmail.com**
 
